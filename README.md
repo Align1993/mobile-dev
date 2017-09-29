@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Blank Template for Open Web Apps
 
 The is a minimal template that has a little HTML, CSS, and js to help
@@ -19,3 +20,7 @@ If you have node installed, you can run a development server with volo:
 2. volo serve
 
 View the app at http://localhost:8008/.
+=======
+# mobile-dev
+mobile first
+>>>>>>> 478cdc9aabce9d720eaa94b7c22e668931853473
